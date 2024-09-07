@@ -1,7 +1,7 @@
 import React, { useEffect, useLayoutEffect, useState } from 'react'
 import Card from '../../components/card/Card'
 import profileImg from "../../assets/avatarr.png"
-import "./profile.scss"
+import "./Profile.scss"
 import PageMenu from '../../components/pageMenu/PageMenu'
 import useRedirectLoggedOutUser from '../../customHook/useRedirectLoggedOutUser'
 import { useDispatch, useSelector } from 'react-redux'
