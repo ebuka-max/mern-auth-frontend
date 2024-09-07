@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Card from '../../components/card/Card'
 import profileImg from "../../assets/avatarr.png"
-import "./changePassword.scss"
+import "./ChangePassword.scss"
 import PageMenu from '../../components/pageMenu/PageMenu'
 import PasswordInput from '../../components/passwordInput/PasswordInput'
 import { useDispatch, useSelector } from 'react-redux'
